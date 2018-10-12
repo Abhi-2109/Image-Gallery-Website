@@ -8,3 +8,5 @@ No Backend is used. Just a static html page
 I used bootstrap grid layout and its components.
 
 Also made it device friendly so that it gives a responsive UI Look
+
+The image of the UI is also in the file.
